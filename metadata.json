@@ -1,0 +1,6 @@
+{
+  "name": "OrgBean - Org-Mode & Beancount Studio",
+  "description": "Unified Org-Mode knowledge base and Beancount plain-text double-entry accounting studio with cross-platform workflow, agenda calendar, financial reports, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
